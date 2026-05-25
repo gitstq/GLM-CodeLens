@@ -1,0 +1,4 @@
+# GLM-CodeLens
+# 零依赖依赖列表（Python内置库即可运行）
+# 如需GLM API支持，可安装以下可选依赖：
+# requests>=2.28.0
